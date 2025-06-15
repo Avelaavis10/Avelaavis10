@@ -26,16 +26,16 @@
 
 | Section | STAR Reflection | Evidence |
 |--------|------------------|----------|
-| 🧠 [Personality Assessment](https://github.com/wil-it2025/wil-it2025-digital-portfolio/tree/main/personality-assessment) | ✅ Done | 🖼 Screensh![PersonalityAssement](https://github.com/user-attachments/assets/b374498c-eea4-4984-9d75-ecf0184664ce)
-ot |
-| ⚙️ [Skills & Interests](https://github.com/wil-it2025/wil-it2025-digital-portfolio/tree/main/skills-and-interests) | ✅ Done | 📝 Self-asse![skills Interest](https://github.com/user-attachments/assets/03a1d624-d72b-449d-9655-ff77e509869b)
-ssment |
+| 🧠 [Personality Assessment](https://github.com/wil-it2025/wil-it2025-digital-portfolio/tree/main/personality-assessment) | ✅ Done | 🖼 Screenshot![PersonalityAssement](https://github.com/user-attachments/assets/b374498c-eea4-4984-9d75-ecf0184664ce)
+ |
+| ⚙️ [Skills & Interests](https://github.com/wil-it2025/wil-it2025-digital-portfolio/tree/main/skills-and-interests) | ✅ Done | 📝 Self-assessment![skills Interest](https://github.com/user-attachments/assets/03a1d624-d72b-449d-9655-ff77e509869b)
+ |
 | 🧭 [Career Counseling](https://github.com/wil-it2025/wil-it2025-digital-portfolio/tree/main/career-counseling) | ✅ Done | 🧭 ![PersonalityAssement](https://github.com/user-attachments/assets/c6e1ab37-8f32-4493-9544-0590d7e969cb)
 Planning notes |
-| 🧾 [Create CV](https://github.com/wil-it2025/wil-it2025-digital-portfolio/tree/main/create-cv) | ✅ Done | 📄 C![CreateCV](https://github.com/user-attachments/assets/02ad07d7-57da-46c4-87dc-eac4ad2d3d98)
-V PDF |
-| 📤 [CV Submission](https://github.com/wil-it2025/wil-it2025-digital-portfolio/tree/main/cv-submission) | ✅ Done | 📷 Submission Screen![CvSubmission](https://github.com/user-attachments/assets/19fdd68b-8696-4966-a6fb-4dd109e72c87)
-shot |
+| 🧾 [Create CV](https://github.com/wil-it2025/wil-it2025-digital-portfolio/tree/main/create-cv) | ✅ Done | 📄 CV PDF[CreateCV](https://github.com/user-attachments/assets/02ad07d7-57da-46c4-87dc-eac4ad2d3d98)
+ |
+| 📤 [CV Submission](https://github.com/wil-it2025/wil-it2025-digital-portfolio/tree/main/cv-submission) | ✅ Done | 📷 Submission Screen shot ![CvSubmission](https://github.com/user-attachments/assets/19fdd68b-8696-4966-a6fb-4dd109e72c87)
+|
 
 --![PersonalityAssement](https://github.com/user-attachments/assets/dc2791f6-bbb3-4151-950c-4c78079f8601)
 -![skills Interest](ht![BusinessCommunication](https://github.com/user-attachments/assets/03e9b81b-ba06-4542-aa77-4176bcdf2d2e)
