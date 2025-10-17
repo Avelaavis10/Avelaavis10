@@ -1,108 +1,102 @@
-<h1>Hi, I'm Avela Bonakali 👋<br/>
-<a href="https://github.com/wil-it2025">Aspiring AI Innovator</a>,
-<a href="#">ICT Developer in Training</a>,
-<a href="#">Sports Tech Entrepreneur</a>
-</h1>
+ 🚀 Digital Portfolio - Work Readiness Journey
+
+              This folder contains all my new evidence and reflections for the final PRP370S assessment.
+
+<div align="center">
+
+### 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miss-puse)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@domain.com)
 
 ---
 
-## 🎯 About Me![Uploading studentAcknowledgement.jpg…]()
-
-
-- 📍 Eastern Cape → Cape Town  
-- 🧠 ICT Application Development student @ CPUT  
-- 🎓 Diploma in Marketing Management  
-- 💡 Passionate about building a sports platform that empowers undiscovered talent to market themselves using AI  
-- 🌍 Proudly Bantu | Traditional Xhosa | Driven by purpose & impact  
-- 📚 Also deeply curious about History, Philosophy, Psychology & Religion  
-- 🤖 Exploring AI, ML, Deep Learning & Robotics for human-centered innovation  
-- 🔄 Current project: **“Image Files Talent” – AI-powered sports exposure app for rural athletes**
+</div>
 
 ---
+## 🎯 Table of Contents
 
-## 💻 PRP370 Digital Portfolio (2025)
-
-### 🗂️ STAR Reflections (CPUT Work Integrated Learning)
-
-| Section | STAR Reflection | Evidence |
-|--------|------------------|----------|
-| 🧠 [Personality Assessment](https://github.com/wil-it2025/wil-it2025-digital-portfolio/tree/main/personality-assessment) | ✅ Done | 🖼 Screenshot![PersonalityAssement](https://github.com/user-attachments/assets/b374498c-eea4-4984-9d75-ecf0184664ce)
- |
-| ⚙️ [Skills & Interests](https://github.com/wil-it2025/wil-it2025-digital-portfolio/tree/main/skills-and-interests) | ✅ Done | 📝 Self-assessment![skills Interest](https://github.com/user-attachments/assets/03a1d624-d72b-449d-9655-ff77e509869b)
- |
-| 🧭 [Career Counseling](https://github.com/wil-it2025/wil-it2025-digital-portfolio/tree/main/career-counseling) | ✅ Done | 🧭 ![PersonalityAssement](https://github.com/user-attachments/assets/c6e1ab37-8f32-4493-9544-0590d7e969cb)
-Planning notes |
-| 🧾 [Create CV](https://github.com/wil-it2025/wil-it2025-digital-portfolio/tree/main/create-cv) | ✅ Done | 📄 CV PDF[CreateCV](https://github.com/user-attachments/assets/02ad07d7-57da-46c4-87dc-eac4ad2d3d98)
- |
-| 📤 [CV Submission](https://github.com/wil-it2025/wil-it2025-digital-portfolio/tree/main/cv-submission) | ✅ Done | 📷 Submission Screen shot ![CvSubmission](https://github.com/user-attachments/assets/19fdd68b-8696-4966-a6fb-4dd109e72c87)
-|
-
---![PersonalityAssement](https://github.com/user-attachments/assets/dc2791f6-bbb3-4151-950c-4c78079f8601)
--![skills Interest](ht![BusinessCommunication](https://github.com/user-attachments/assets/03e9b81b-ba06-4542-aa77-4176bcdf2d2e)
-tps://github.com/user-attachments/assets/465a8df2-da6d-4bfa-8b40-5ee16ce453f9)
-
-
-## 👨‍💻 Technical Skills
-
-- **Languages**: Java, Python, JavaScript  
-- **Web**: HTML, CSS, GitHub Pages  
-- **Tools**: Git, VS Code, NetBeans, Figma  
-- **Soft Skills**: Public Speaking, Creativity, Leadership, Critical Thinking  
-- **Languages Spoken**: isiXhosa (Native), English (Fluent), Afrikaans (Basic)
+1. 🗣️ [Business Communication](./PRP370S_November2025/1_Business_Communication)
+2. 🎤 [Interview Skills](./PRP370S_November2025/2_Interview_Skills)
+3. 🎬 [Mock Interview](./PRP370S_November2025/3_Mock_Interview)
+4. 🌐 [Professional Networking](./PRP370S_November2025/4_Professional_Networking)
+5. 🏢 [Workplace Etiquette](./PRP370S_November2025/5_Workplace_Etiquette)
 
 ---
+## 🗣️ **1. BUSINESS COMMUNICATION**
 
-## 🚧 Projects (Academic & Personal)
+### 🧠 **Evidence:**
 
-- 🔨 **Image Files Talent** *(Prototype in progress)*  
-  An AI-driven platform allowing grassroots soccer players to upload videos, market themselves directly, and connect with verified agents.  
-  *Phase 1: School-level testing | Phase 2: University & Professional tier integration*
+<img width="1541" height="707" alt="image" src="https://github.com/user-attachments/assets/be9697ba-c8b3-4604-b748-32e10989baf3" />
+ 
 
-- 🧠 **Personal AI Model DevPlan**  
-  Building a custom LLM fine-tuned on my learning journey to enhance productivity, retention, and idea validation.  
-  *Tools: Python, LangChain (Planned), Transformers*
+<br><br>🌿<br><br>  
 
----
+<img width="971" height="571" alt="image" src="https://github.com/user-attachments/assets/0da39090-293e-40d7-bfb4-be5431f0dc77" />
 
-## 🛠️ Currently Learning
 
-- Python for Data Science  
-- AI Model Training (Foundations)  
-- Git & GitHub for Team Projects  
-- Agile and Waterfall Project Management  
-- LinkedIn Learning: *Craft a Great GitHub Profile*
+### 💬 **Reflection (STAR):**
 
----
+**Situation:** During our Work Readiness training, we learned about professional communication and how to write formal emails. Even though it was not a given task, I decided to apply what I had learned by writing a real email to a company to request an opportunity to complete my Work Integrated Learning (WIL) placement. I wanted to challenge myself and gain real-world experience communicating with employers.
 
-## 🌐 Connect With Me
+**Task:**  My goal was to compose a professional and respectful email that introduced myself as a Diploma in ICT student at CPUT and to ask if their company could offer me a WIL placement. I needed to make sure that the email was polite, well-structured, and used proper business language.
 
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]  
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
-[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]  
-[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]  
+**Action:**  To do this, I reviewed examples of professional emails and followed the correct structure ,including a subject line, greeting, body, and closing. I introduced myself, explained what WIL is, and why I was interested in completing it at their company.
 
-<br/>
+**Result:** Writing this email gave me practical experience in professional communication. It helped me understand how to express myself confidently and respectfully when reaching out to companies. I also learned the importance of tone, structure, and clarity in written communication.
 
-[twitter]: #
-[youtube]: https://www.youtube.com/@yourchannel (optional)
-[linkedin]: https://www.linkedin.com/in/your-profile-url/
-[email]: mailto:avela.bonakali@gmail.com
-[github]: https://github.com/wil-it2025
+## 🎤 **2. INTERVIEW SKILLS**
 
----
+### 🧠 **Evidence:**
 
-## 🧠 Fun Facts
+<img width="1450" height="689" alt="image" src="https://github.com/user-attachments/assets/d6422bca-70bc-4cdb-86f0-334df5b8ea63" />
+<img width="1465" height="711" alt="image" src="https://github.com/user-attachments/assets/2e5b5590-21c5-44b6-a7a8-1514d2d16719" />
 
-- 📖 I read patterns in nature, old philosophies & sacred texts
-- 🎯 I believe innovation must empower the voiceless
-- 🎮 I see sport as a universal platform for social change
-- 👣 Legacy mindset: *Leave the world better than I found it*
 
-<!--
-**wil-it2025/wil-it2025** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+### 💬 **Reflection (STAR):**
+**Situation:** In preparation for our WIL applications, we had to practice interview skills to prepare for possible interviews with companies. The purpose was to help us present ourselves confidently and answer questions effectively
 
-To make your profile README show:
-1. Create a repo with the same name as your GitHub username (wil-it2025)
-2. Add this README.md to it
-3. Watch your personal brand grow 🌱
--->
+**Task:**  In preparation for our WIL applications, we had to practice interview skills to prepare for possible interviews with companies. The purpose was to help us present ourselves confidently and answer questions effectively
+
+**Action:**  I practiced answering common interview questions such as “Tell me about yourself” and “Why should we hire you?”. I prepared short notes about my academic background, strengths, and experience from class projects. I also practiced my body language, maintaining eye contact, and speaking clearly. I recorded myself during one practice session to evaluate my tone and posture and made improvements based on what I saw.
+
+**Result:** I became more confident when speaking in front of others and learned how to structure my answers using real examples. I now understand how preparation and positive body language can make a strong impression during interviews. This experience made me feel ready for real WIL or job interviews.
+
+## 🎬 **3. MOCK INTERVIEW**
+
+### 🧠 **Evidence:**
+https://github.com/wil-it2025/cv-tutorial-Avelaavis10/blob/main/VN20250321_234432.mp4
+
+
+### 💬 **Reflection (STAR):**
+
+**Situation:** As part of our assessment, I participated in a mock interview that simulated a real job interview. This was meant to test our readiness for WIL and future job interviews.
+
+**Task:** I had to act as if I was applying for a WIL placement at an ICT company. The lecturer provided us with a set of interview questions to choose from, and I had to prepare my answers in advance. My goal was to present myself professionally, answer confidently, and apply the STAR technique in my responses.
+
+**Action:** Before the interview, I selected the questions given by my lecturer , such as “Tell me about yourself,” “What are your strengths and weaknesses?” and “Describe a time when you worked well in a team.”
+I practiced answering them using the STAR method . I also prepared by wearing professional attire, setting up my interview space neatly, and ensuring my camera and sound were clear.
+
+**Result:** The mock interview helped me become more confident and aware of how to present myself professionally. I learned how to stay calm, use examples from my experience, and answer questions with structure.
+
+## 🌐 **4. PROFESSIONAL NETWORKING**
+
+### 🧠 **Evidence:**
+<img width="1494" height="707" alt="image" src="https://github.com/user-attachments/assets/1feac768-6bef-4120-a365-4b2518df922d" />
+
+Here are my professional networking activities:  
+
+### 💬 **Reflection (STAR):**
+
+**Situation:** We were encouraged to build our professional presence online and connect with people in our field. I decided to focus on improving my LinkedIn and GitHub profiles to network effectively with ICT professionals.
+
+**Task:**   My goal was to create a LinkedIn profile that highlights my education, skills, and career goals, and to keep my GitHub account updated with my projects to showcase my technical abilities.
+
+**Action:**  I updated my LinkedIn with a professional photo, headline, and description of my qualification. I added my academic projects, volunteer work, and soft skills. I also followed ICT-related companies and joined student groups. On GitHub, I uploaded my projects and other coding tasks, ensuring that each repository had a proper description and README file.
+
+**Result:** My LinkedIn and GitHub profiles now look professional and reflect my growth as an ICT student. I started receiving connection requests from other students and professionals, which made me more visible in the tech community. Networking online taught me how to promote myself and engage with potential employers in a professional way.
+
+## 🏢 **5. WORKPLACE ETIQUETTE**
+### 🧠 **Evidence:**
+<img width="1536" height="714" alt="image" src="https://github.com/user-attachments/assets/71c757fd-ff16-4d57-8d01-e2735fddf496" />
