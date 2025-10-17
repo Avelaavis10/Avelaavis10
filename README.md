@@ -51,7 +51,7 @@
 ### 🧠 **Evidence:**
 
 <img width="1450" height="689" alt="image" src="https://github.com/user-attachments/assets/d6422bca-70bc-4cdb-86f0-334df5b8ea63" />
-<img width="1465" height="711" alt="image" src="https://github.com/user-attachments/assets/2e5b5590-21c5-44b6-a7a8-1514d2d16719" />
+
 
 
 ### 💬 **Reflection (STAR):**
