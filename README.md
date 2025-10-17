@@ -1,6 +1,6 @@
  🚀 Digital Portfolio - Work Readiness Journey
 
-              This folder contains all my new evidence and reflections for the final PRP370S assessment.
+            
 
 <div align="center">
 
